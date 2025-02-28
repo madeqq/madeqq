@@ -19,6 +19,7 @@ Polish FullStack Developer - I Love Minecraft ❤️
 
 ## 📞 SocialMedia
 🤖 My discord: **madeq**
+
 📷 My youtube channel: **https://www.youtube.com/@madeqiu**
 
 
