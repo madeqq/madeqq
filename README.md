@@ -1,12 +1,12 @@
 # Hi, I'm madeq! 👋
 
-Polish FullStack Developer - I Love Minecraft ❤️
+Polish FullStack Developer
 
 
 ## 🚀 About Me
 👨 Owner or Member in: @Xynis1 @FuckSkiddersClub @DevsMarket SpigotShield and more... 
 
-🔞 I am **21** years old...
+🔞 I am **22** years old...
 
 🌍 Languages: **Polish, English**
 
@@ -14,7 +14,7 @@ Polish FullStack Developer - I Love Minecraft ❤️
 ## 🛠 Skills
 ⌨️ Programming languages I use / Coding in: **Java, Kotlin, Python, C++, CSS, JavaScript, SQL**
 
-🖥️ I have been coding for **7** years
+🖥️ I have been coding for **8** years
 
 
 ## 📞 Social Media
