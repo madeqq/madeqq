@@ -88,16 +88,6 @@ Languages:
 
 ---
 
-# 🎯 What I Like Building
-
-- ⚡ High-performance backend services
-- 🌐 Applications, web applications, APIs, forks
-- 🤖 Automation software
-- 🔒 Secure software
-- 🚀 Open Source projects
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
