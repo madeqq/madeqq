@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer from Poland 🇵🇱
 
-My interests are: programming, computer games, football, beautiful women and money.
+My interests are: programming, computer games, football, beautiful women, beer and money.
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02E5F7&center=true&width=435&lines=Full-Stack+Developer;Founder%2FCoFounder+a+lot+of+projects;Freelancer" alt="Typing SVG" /></a>
